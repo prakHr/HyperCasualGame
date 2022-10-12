@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bbb7fe46a1ad266029b2fee19, type: 3}
+  m_Name: PublisherReadme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 06e9135626efb4f69a37d4da6effcca2, type: 3}
+  title: 'Assets by Makaka Games: makaka.org'
+  sections:
+  - heading: Asset Store
+    text: Here you can learn All my Unity Assets. [ad]
+    linkText: Open Asset Store
+    url: https://makaka.org/o/all-unity-assets
+  - heading: Ads in this Package
+    text: 'This package contains ads & affiliate links.
+
+      You support me by
+      using them. Thank you.'
+    linkText: 
+    url: 
+  - heading: 'Docs: Online & Offline (PDF)'
+    text: Learn PDF-file in package folder & the latest docs online.
+    linkText: Open Online Docs
+    url: https://makaka.org/unity-assets
+  - heading: Support
+    text: "First of all, read the docs. If it didn\u2019t help, get the support.\n\nIf
+      you find a bug or you can\u2019t use the asset as you need, please first send
+      email to info@makaka.org before leaving a review to the asset store. \n\nI
+      am here to help you and to improve my products for the best."
+    linkText: Get Support
+    url: https://makaka.org/support
+  - heading: Paid Assets for Free
+    text: So wonderful day today! So you can really get a Bonus.
+    linkText: Get Bonus
+    url: https://makaka.org/unity-assets-free
